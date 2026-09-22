@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain-groq
+langchain-google-genai
+langgraph
+pydantic
+pandas
+markitdown
+python-dotenv
+streamlit
