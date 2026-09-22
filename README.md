@@ -44,7 +44,7 @@ sample_jd_*.pdf, sample_cv_*.pdf — synthetic test fixtures (see below)
 ## Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Farhad-ALi-Farhat/cv-screening
 cd cv-screening
 python -m venv venv
 source venv/bin/activate  # venv\Scripts\activate on Windows
@@ -89,4 +89,4 @@ The `sample_jd_*.pdf` and `sample_cv_*.pdf` files are synthetic (LLM-generated) 
 
 ## License
 
-Add a license of your choice (MIT is a common default for a project like this) before making the repo public.
+MIT — see [LICENSE](LICENSE).
